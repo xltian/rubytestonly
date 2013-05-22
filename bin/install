@@ -26,4 +26,4 @@ update-configuration $version
 ln -s /usr/lib64/httpd/modules $OPENSHIFT_RUBY_DIR
 ln -s /etc/httpd/conf/magic $OPENSHIFT_RUBY_DIR/etc/magic
 
-echo "&#44592;&#51088"
+#echo "&#44592;&#51088"
