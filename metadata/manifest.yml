@@ -102,4 +102,4 @@ Version-Overrides:
         - rubytest-1.8
         - web_proxy
 Install-Build-Required: false
-Source-Url: git@github.com:xltian/rubytestonly.git
+Source-Url: https://github.com/xltian/rubytestonly.git
